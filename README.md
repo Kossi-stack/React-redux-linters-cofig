@@ -1,0 +1,1 @@
+# React-redux-linters-cofig
